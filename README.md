@@ -13,7 +13,7 @@
 
      git clone https://github.com/IWAN-404/kecepatan-nulis
 
-#install Run
+# Install Run
 
 cd kecepatan-nulis
 
